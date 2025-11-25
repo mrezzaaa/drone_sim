@@ -14,10 +14,14 @@ A 3D drone simulation visualizer built with Python. This project demonstrates a 
 
 ## Usage
 
+```bash
+pip3 install -r requirements.txt
+```
+
 Run the main script:
 
 ```bash
-python drone_sim_3d.py
+python3 drone_sim_3d.py
 ```
 
 ## License
