@@ -1,7 +1,7 @@
 # Drone Simulation
 
 A 3D drone simulation visualizer built with Python. This project demonstrates a drone model rendered in a stylized 3D environment with grid lines and axes.
-
+Collaborative Aerial Manipulation algorithm
 ![Drone Simulation Screenshot](drone_sim_screenshot.png)
 ![Drone Simulation Screenshot](screenshot_1.png)
 ![Drone Simulation Screenshot](screenshot_2.png)
