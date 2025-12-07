@@ -6,6 +6,9 @@ Collaborative Aerial Manipulation algorithm
 ![Drone Simulation Screenshot](screenshot_1.png)
 ![Drone Simulation Screenshot](screenshot_2.png)
 
+![Drone Simulation GIF](demo_2d.gif)
+![Drone Simulation GIF](demo_3d.gif)
+
 ## Features
 
 - Real-time 3D rendering of a drone model.
